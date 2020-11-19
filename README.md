@@ -1,5 +1,5 @@
 # Wildfire_Prediction_Model
-For more information on the project refer to the ArcGIS StoryMap website: https://storymaps.arcgis.com/stories/f53d780418ad4cc6bb2386db05165ed4
+For more information on the project and method procedures, refer to the ArcGIS StoryMap website: https://storymaps.arcgis.com/stories/f53d780418ad4cc6bb2386db05165ed4
 ## Repository Information
 This repository contains three Jupyter notebooks:
 1. **Combining_Wildfire_Climate_Data.ipynb**: This notebook process and merges wildfire and climate data. The climate data is a daily summary of the average temperature (TAVG), average wind speed (AWND), and precipitation (PRCP) within each county.
@@ -21,3 +21,5 @@ CAL FIRE contains an archive of wildfire incidents from 2013. <br>
 Contains climate summaries for the average temperature (TAVG), average wind speed (AWNG), and precipitation (PRCP).
 **Project Goal**: Extracted daily climate summaries from 2000-September 2020.<br>
 **Source**: [NOAA](https://www.ncdc.noaa.gov/cdo-web/search)
+
+**Note**: Watershed, drought, and population data was appended to our merged wildfire and climate database using Microsoft Access. Refer to the ArcGIS website link above for further details in this data processing step.
