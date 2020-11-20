@@ -6,7 +6,13 @@ This repository contains three Jupyter notebooks:
 2. **Decision Tree Modeling.ipynb**: This notebook creates a decision tree model of different conditions (one-variable, two-variable, etc.) and comapares it with a random classification model. A hypothesis test is applied to see if all the decision tree models have a significantly higher accuracy versus the random classification model.
 3. **Random Forest Modeling.ipynb**: This notebook creates a random forest model and compares it with a random classification model (dummy classifier). A hypothesis test is applied to see if the random forest model has a significantly higher accuracy versus the random classification model.
 
-**Note**: **V4_WDF_OFFICIAL.csv** is the cleaned and processed database already provided. If you want to skip to the decision tree and random forest modeling, ignore the Combining_Wildfire_Climate_Data notebook.
+This repository contains the following visualization attachments:
+1. **V4_WDF_OFFICIAL.csv**: This CSV file is the cleaned and processed database already provided. If you want to skip to the decision tree and random forest modeling, ignore the Combining_Wildfire_Climate_Data notebook.
+2. **ML_Model_Tables.pdf**: Contains two readable tables. One table is the scikt-learn parameters applied in our code. The other table is the accuracy and p-values for each tested model.
+3. **dt_all.png**: Graphviz image of a decision tree that factors in all our variables (AWND, PRCP, TAVG, DURING_A_DROUGHT, WATERSHD, POP_BY_COUNTY). Max depth of tree is 6.
+4. **dt_awnd.png**: Graphviz image of a decision tree that factors in only AWND. Max depth of tree is 3.
+5. **dt_climate_all.png**: Graphviz image of a decision tree that factors in our climate variables (AWND, PRCP, TAVG). Max depth of tree is 1.
+6. **dt_pop_by_county.png**: Graphviz image of a decision tree that factors in only POP_BY_COUNTY. Max depth of tree is 13.
 ***
 ## Datasets
 ### Dataset #1: Spatial wildfire occurrence data for the United States, 1992-2015 [FPA_FOD_20170508] (4th Edition)
