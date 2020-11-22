@@ -30,7 +30,7 @@ Contains climate summaries for the average temperature (TAVG), average wind spee
 **Source**: [NOAA](https://www.ncdc.noaa.gov/cdo-web/search)
 ### Dataset #4: Population By County
 Population by counties were collected from the census.<br>
-**Project Goal**: Acquired the population data and appended it our wildfire database.<br>
+**Project Goal**: Acquired the population data and appended it to our wildfire database.<br>
 **Source**: [U.S. Census Bureau](https://www.census.gov/data/)
 ### Dataset #5: California High Hazard Zones (Tier 2)
 Tier Two High Hazard Zones are based on watersheds and represent areas for forest health restoration and fire planning.<br>
