@@ -20,7 +20,7 @@ This repository contains the following visualization attachments:
 This data publication contains a spatial database of wildfires that occurred in the United States from 1992 to 2015.<br>
 **Project Goal**: Extracted Southern California wildfires from 2000-2015.<br>
 **Source**: [USDA](https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0009.4)
-### Dataset #2: Cal Fire Incident Archive
+### Dataset #2: CAL FIRE Incident Archive
 CAL FIRE contains an archive of wildfire incidents from 2013. <br>
 **Project Goal**: Extracted Southern California wildfires from 2016-September 2020.<br>
 **Source**: [CAL FIRE](https://www.fire.ca.gov/incidents/)
