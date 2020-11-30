@@ -35,7 +35,7 @@ Population by counties were collected from the census.<br>
 ### Dataset #5: California High Hazard Zones (Tier 2)
 Tier Two High Hazard Zones are based on watersheds and represent areas for forest health restoration and fire planning.<br>
 **Project Goal**: Extracted watershed data in Southern California using ArcGIS Pro's intersection tool.<br>
-**Source**: [CAL Fire](https://www.arcgis.com/home/item.html?id=e50b7577426c4367a518b80b38e9b5d8)
+**Source**: [CAL FIRE](https://www.arcgis.com/home/item.html?id=e50b7577426c4367a518b80b38e9b5d8)
 ### Dataset #6: Weeks In Drought
 The Consecutive Drought Dataset for California was collected from the National Drought Mitigation Center in the form of a CSV file.<br>
 **Project Goal**: Extracted the counties in our study area and confirmed which wildfires occurred during a drought.<br>
